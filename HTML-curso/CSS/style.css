@@ -1,0 +1,20 @@
+html{
+    background-color:khaki;
+}
+h1,h2{
+  color:forestgreen;  
+ 
+}
+header{
+    color: peru;
+    background-color: rgb(246, 240, 240);
+    text-align: center;
+    font-size:50px;
+}
+p{
+    text-align:justify;
+    font-family:cursive;
+}
+h1,h2,header{
+    font-family:'Times New Roman', Times, serif;
+}

@@ -1,0 +1,20 @@
+html{
+   background-color:khaki;
+}
+header{
+   color: peru;
+   background-color: rgb(246, 240, 240);
+   text-align: center;
+   font-size:50px;
+}
+table{
+   background-color:rgb(246, 225, 248); 
+   border:solid 4px cornsilk;
+   border-collapse: collapse;
+   color:steelblue;
+}
+
+th,td{
+   border: seashell 4px solid;
+   padding: 4px;
+}
