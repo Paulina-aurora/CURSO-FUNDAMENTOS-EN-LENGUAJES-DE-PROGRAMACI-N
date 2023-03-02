@@ -11,10 +11,10 @@ var Fecha_contratacion= "02/07/2021";
 var Sueldo_Basico= 800000
 var Dias_laborados= 26
 
-var datos= document.getElementById("datos");
+var datos= document.getElementById("info");
 
 datos.innerHTML = `
-<h1>Estos son los datos personales de una persona</h1>
+<h3>Estos son los datos personales de una persona</h3>
 <h2>Identificacion: ${identificacion}</h2>
 <h2>Nombre: ${Nombre}</h2>
 <h2>Direccion: ${Direccion}</h2>
